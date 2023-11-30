@@ -1,0 +1,6 @@
+name = input("Enter your name:")
+cname = name.upper()
+l = len(name)
+print("You have enter your name as",name)
+print("Your name in capital",cname)
+print("Your name has",l,'characters')
